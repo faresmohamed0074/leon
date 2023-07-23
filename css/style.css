@@ -174,7 +174,7 @@ header .links ul li a{
 /* end header */
 /* start landing */
 .landing{
-    background-image: url("/images/SierraNevada.jpg");
+    background-image: url("../images/SierraNevada.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     height: calc(100vh - 64px);
